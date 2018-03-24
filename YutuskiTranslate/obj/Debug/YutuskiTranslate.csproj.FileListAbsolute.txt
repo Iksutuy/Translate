@@ -1,0 +1,30 @@
+c:\users\yutsuki\documents\visual studio 2015\Projects\YutuskiTranslate\YutuskiTranslate\bin\Debug\YutuskiTranslate.exe.config
+c:\users\yutsuki\documents\visual studio 2015\Projects\YutuskiTranslate\YutuskiTranslate\obj\Debug\YutuskiTranslate.csprojResolveAssemblyReference.cache
+c:\users\yutsuki\documents\visual studio 2015\Projects\YutuskiTranslate\YutuskiTranslate\obj\Debug\YutuskiTranslate.Form1.resources
+c:\users\yutsuki\documents\visual studio 2015\Projects\YutuskiTranslate\YutuskiTranslate\obj\Debug\YutuskiTranslate.Properties.Resources.resources
+c:\users\yutsuki\documents\visual studio 2015\Projects\YutuskiTranslate\YutuskiTranslate\obj\Debug\YutuskiTranslate.csproj.GenerateResource.Cache
+c:\users\yutsuki\documents\visual studio 2015\Projects\YutuskiTranslate\YutuskiTranslate\bin\Debug\YutuskiTranslate.exe
+c:\users\yutsuki\documents\visual studio 2015\Projects\YutuskiTranslate\YutuskiTranslate\bin\Debug\YutuskiTranslate.pdb
+c:\users\yutsuki\documents\visual studio 2015\Projects\YutuskiTranslate\YutuskiTranslate\bin\Debug\Newtonsoft.Json.dll
+c:\users\yutsuki\documents\visual studio 2015\Projects\YutuskiTranslate\YutuskiTranslate\bin\Debug\Newtonsoft.Json.xml
+c:\users\yutsuki\documents\visual studio 2015\Projects\YutuskiTranslate\YutuskiTranslate\obj\Debug\Interop.MSScriptControl.dll
+c:\users\yutsuki\documents\visual studio 2015\Projects\YutuskiTranslate\YutuskiTranslate\obj\Debug\YutuskiTranslate.csproj.ResolveComReference.cache
+c:\users\yutsuki\documents\visual studio 2015\Projects\YutuskiTranslate\YutuskiTranslate\obj\Debug\YutuskiTranslate.exe
+c:\users\yutsuki\documents\visual studio 2015\Projects\YutuskiTranslate\YutuskiTranslate\obj\Debug\YutuskiTranslate.pdb
+C:\Users\Yutsuki\Documents\Visual Studio 2015\Projects\YutuskiTranslate\YutuskiTranslate\obj\Debug\YutuskiTranslate.csproj.CoreCompileInputs.cache
+C:\Users\Yutsuki\Documents\Visual Studio 2015\Projects\YutuskiTranslate\YutuskiTranslate\bin\Debug\DMSkin.dll
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\bin\Debug\YutuskiTranslate.exe.config
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\bin\Debug\YutuskiTranslate.exe
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\bin\Debug\YutuskiTranslate.pdb
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\obj\Debug\YutuskiTranslate.csprojResolveAssemblyReference.cache
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\obj\Debug\Interop.MSScriptControl.dll
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\obj\Debug\YutuskiTranslate.csproj.ResolveComReference.cache
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\obj\Debug\YutuskiTranslate.Form1.resources
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\obj\Debug\YutuskiTranslate.Properties.Resources.resources
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\obj\Debug\YutuskiTranslate.csproj.GenerateResource.Cache
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\obj\Debug\YutuskiTranslate.csproj.CoreCompileInputs.cache
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\obj\Debug\YutuskiTranslate.exe
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\obj\Debug\YutuskiTranslate.pdb
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\obj\Debug\YutuskiTranslate.MyMessageBox.resources

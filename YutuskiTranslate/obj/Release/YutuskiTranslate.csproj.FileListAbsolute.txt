@@ -1,0 +1,16 @@
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\obj\Release\Interop.MSScriptControl.dll
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\obj\Release\YutuskiTranslate.csproj.ResolveComReference.cache
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\obj\Release\YutuskiTranslate.Form1.resources
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\obj\Release\YutuskiTranslate.Properties.Resources.resources
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\obj\Release\YutuskiTranslate.csproj.GenerateResource.Cache
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\obj\Release\YutuskiTranslate.csproj.CoreCompileInputs.cache
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\bin\Release\YutuskiTranslate.exe.config
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\bin\Release\YutuskiTranslate.exe
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\bin\Release\YutuskiTranslate.pdb
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\bin\Release\Newtonsoft.Json.dll
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\bin\Release\Newtonsoft.Json.xml
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\obj\Release\YutuskiTranslate.csprojResolveAssemblyReference.cache
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\obj\Release\YutuskiTranslate.exe
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\obj\Release\YutuskiTranslate.pdb
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\obj\Release\YutuskiTranslate.MyMessageBox.resources
+C:\Users\Yutsuki\Source\repos\YutuskiTranslate\YutuskiTranslate\obj\Release\YutuskiTranslate.About.resources
